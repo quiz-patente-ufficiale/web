@@ -1,1 +1,15 @@
+[{
 
+  "relation": ["delegate_permission/common.handle_all_urls"],
+
+  "target": {
+
+    "namespace": "android_app",
+
+    "package_name": "com.quizpatente.ufficiale",
+
+    "sha256_cert_fingerprints": ["6D:FA:D5:17:AD:D7:87:E5:48:07:CB:55:1C:EE:FA:7B:96:73:E2:62:2D:18:E3:6D:D4:22:18:D3:02:CF:BB:EA"]
+
+  }
+
+}]

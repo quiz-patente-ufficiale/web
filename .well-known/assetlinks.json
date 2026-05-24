@@ -1,15 +1,14 @@
-[{
-
-  "relation": ["delegate_permission/common.handle_all_urls"],
-
-  "target": {
-
-    "namespace": "android_app",
-
-    "package_name": "com.quizpatente.ufficiale",
-
-    "sha256_cert_fingerprints": ["AD:AC:1B:C7:C3:A5:E1:56:87:C0:B0:64:46:EF:F0:12:BD:E9:35:45:06:9E:9B:E8:45:07:F0:72:A7:E4:56:70"]
-
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.quizpatente.ufficiale",
+      "sha256_cert_fingerprints": [
+        "AD:AC:1B:C7:C3:A5:E1:56:87:C0:B0:64:46:EF:F0:12:BD:E9:35:45:06:9E:9B:E8:45:07:F0:72:A7:E4:56:70"
+      ]
+    }
   }
-
-}]
+]
